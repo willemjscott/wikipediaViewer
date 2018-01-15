@@ -1,6 +1,6 @@
 #page {
     background-color: white;
-    padding: 210px;
+    padding: 25px;
     height: 100%;
     width: 100%;
 }
@@ -8,6 +8,7 @@
 #center {
     background-color: silver;
     padding: 15px;
+    margin: 75px;
 }
 
 #title {
@@ -32,4 +33,14 @@
 
 #search-button {
     background-color: white;
+}
+
+p {
+    font-size: 20px;
+}
+
+a,
+a:hover {
+    color: rgb(54, 54, 54);
+    text-decoration-line: none;
 }
